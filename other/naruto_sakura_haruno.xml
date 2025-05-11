@@ -825,7 +825,7 @@
             <WordsStyle name="SELF" 						styleID="7" fgColor="F3EEEA" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="SUPER" 						styleID="8" fgColor="F3EEEA" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="NIL" 							styleID="9" fgColor="F3EEEA" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="GLOBAL" 						styleID="10" fgColor="" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="GLOBAL" 						styleID="10" fgColor="CC3354" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="RETURN" 						styleID="11" fgColor="F3EEEA" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="SPECIAL" 						styleID="12" fgColor="F3EEEA" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="KWS END" 						styleID="13" fgColor="F3EEEA" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
