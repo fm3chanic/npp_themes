@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- <NotepadPlus> -->
+    <LexerStyles>
+        <LexerType name="cpp" desc="C++" ext="">
+            <WordsStyle name="PREPROCESSOR" 				styleID="9" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="DEFAULT" 						styleID="11" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="INSTRUCTION WORD" 			styleID="5" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1" />
+            <WordsStyle name="TYPE WORD" 					styleID="16" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" keywordClass="type1" />
+            <WordsStyle name="NUMBER" 						styleID="4" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="STRING" 						styleID="6" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="CHARACTER" 					styleID="7" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="OPERATOR" 					styleID="10" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="VERBATIM" 					styleID="13" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="REGEX" 						styleID="14" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT" 						styleID="1" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT LINE" 				styleID="2" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT DOC" 					styleID="3" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT LINE DOC" 			styleID="15" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT DOC KEYWORD" 			styleID="17" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT DOC KEYWORD ERROR" 	styleID="18" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="USER KEYWORDS 1" 				styleID="128" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" keywordClass="substyle1" />
+            <WordsStyle name="USER KEYWORDS 2" 				styleID="129" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" keywordClass="substyle2" />
+            <WordsStyle name="USER KEYWORDS 3" 				styleID="130" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" keywordClass="substyle3" />
+            <WordsStyle name="USER KEYWORDS 4" 				styleID="131" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" keywordClass="substyle4" />
+            <WordsStyle name="USER KEYWORDS 5" 				styleID="132" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" keywordClass="substyle5" />
+            <WordsStyle name="USER KEYWORDS 6" 				styleID="133" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" keywordClass="substyle6" />
+            <WordsStyle name="USER KEYWORDS 7" 				styleID="134" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" keywordClass="substyle7" />
+            <WordsStyle name="USER KEYWORDS 8" 				styleID="135" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" keywordClass="substyle8" />
+        </LexerType>
+        <LexerType name="searchResult" desc="Search result" ext="">
+            <WordsStyle name="Search Header" 					styleID="1" fgColor="" bgColor="" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="File Header" 						styleID="2" fgColor="" bgColor="" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="Line Number" 						styleID="3" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="Hit Word" 						styleID="4" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="Selected Line" 					styleID="5" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
+            <WordsStyle name="Current line background colour" 	styleID="6" bgColor="" fgColor="" fontSize="" fontStyle="0">bool long int char</WordsStyle>
+        </LexerType>
+	</LexerStyles>
+    <GlobalStyles>
+        <!-- Attention : Don't modify the name of styleID="0" -->
+        <WidgetStyle name="Default Style" 						styleID="32" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+        <WidgetStyle name="Indent guideline style" 				styleID="37" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+        <WidgetStyle name="Brace highlight style" 				styleID="34" fgColor="" bgColor="" fontName="" fontStyle="1" fontSize="10" />
+        <WidgetStyle name="Bad brace colour" 					styleID="35" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+        <WidgetStyle name="Current line background colour" 		styleID="0" bgColor="" />
+        <!-- In below rule 'fgColor' attribute for 'Selected text colour' can be unlocked with a enableSelectFgColor.xml file -->
+        <WidgetStyle name="Selected text colour" 				styleID="0" bgColor="" fgColor="" />
+        <WidgetStyle name="Multi-selected text color" 			styleID="0" bgColor="" />
+        <WidgetStyle name="Caret colour" 						styleID="2069" fgColor="" />
+        <WidgetStyle name="Multi-edit carets color" 			styleID="0" fgColor="" />
+        <WidgetStyle name="Edge colour" 						styleID="0" fgColor="" />
+        <WidgetStyle name="Line number margin" 					styleID="33" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="8" />
+        <WidgetStyle name="Bookmark margin" 					styleID="0" bgColor="" />
+        <WidgetStyle name="Change History margin" 				styleID="0" bgColor="" />
+        <WidgetStyle name="Change History modified" 			styleID="0" fgColor="" bgColor="" />
+        <WidgetStyle name="Change History revert modified" 		styleID="0" fgColor="" bgColor="" />
+        <WidgetStyle name="Change History revert origin" 		styleID="0" fgColor="" bgColor="" />
+        <WidgetStyle name="Change History saved" 				styleID="0" fgColor="" bgColor="" />
+        <WidgetStyle name="Fold" 								styleID="0" fgColor="" bgColor="" />
+        <WidgetStyle name="Fold active" 						styleID="0" fgColor="" />
+        <WidgetStyle name="Fold margin" 						styleID="0" fgColor="" bgColor="" />
+        <WidgetStyle name="White space symbol" 					styleID="0" fgColor="" />
+        <WidgetStyle name="Smart HighLighting" 					styleID="29" bgColor="" />
+        <WidgetStyle name="Find Mark Style" 					styleID="31" bgColor="" />
+        <WidgetStyle name="Find status: Not found" 				styleID="0" fgColor="" />
+        <WidgetStyle name="Find status: Message" 				styleID="0" fgColor="" />
+        <WidgetStyle name="Find status: Search end reached" 	styleID="0" fgColor="" />
+        <WidgetStyle name="Mark Style 1" 						styleID="25" bgColor="" />
+        <WidgetStyle name="Mark Style 2" 						styleID="24" bgColor="" />
+        <WidgetStyle name="Mark Style 3" 						styleID="23" bgColor="" />
+        <WidgetStyle name="Mark Style 4" 						styleID="22" bgColor="" />
+        <WidgetStyle name="Mark Style 5" 						styleID="21" bgColor="" />
+        <WidgetStyle name="Incremental highlight all" 			styleID="28" bgColor="" />
+        <WidgetStyle name="Tags match highlighting" 			styleID="27" bgColor="" />
+        <WidgetStyle name="Tags attribute" 						styleID="26" bgColor="" />
+        <WidgetStyle name="Active tab focused indicator" 		styleID="0" fgColor="" />
+        <WidgetStyle name="Active tab unfocused indicator" 		styleID="0" fgColor="" />
+        <WidgetStyle name="Active tab text" 					styleID="0" fgColor="" />
+        <WidgetStyle name="Inactive tabs" 						styleID="0" fgColor="" bgColor="" />
+        <WidgetStyle name="Tab color 1" 						styleID="0" bgColor="" />
+        <WidgetStyle name="Tab color 2" 						styleID="0" bgColor="" />
+        <WidgetStyle name="Tab color 3" 						styleID="0" bgColor="" />
+        <WidgetStyle name="Tab color 4" 						styleID="0" bgColor="" />
+        <WidgetStyle name="Tab color 5" 						styleID="0" bgColor="" />
+        <WidgetStyle name="Tab color dark mode 1" 				styleID="0" bgColor="" />
+        <WidgetStyle name="Tab color dark mode 2" 				styleID="0" bgColor="" />
+        <WidgetStyle name="Tab color dark mode 3" 				styleID="0" bgColor="" />
+        <WidgetStyle name="Tab color dark mode 4" 				styleID="0" bgColor="" />
+        <WidgetStyle name="Tab color dark mode 5" 				styleID="0" bgColor="" />
+        <WidgetStyle name="URL hovered" 						styleID="0" fgColor="" />
+        <WidgetStyle name="Document map" 						styleID="0" fgColor="" bgColor="" />
+        <WidgetStyle name="EOL custom color" 					styleID="0" fgColor="" />
+        <WidgetStyle name="Global override" 					styleID="0" fgColor="" bgColor="" fontName="" fontStyle="0" fontSize="10" />
+	</GlobalStyles>
+</NotepadPlus>
