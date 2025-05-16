@@ -998,10 +998,10 @@
         <WidgetStyle name="Line number margin" 					styleID="33" fgColor="882238" bgColor="290A11" fontName="" fontStyle="0" fontSize="8" />
         <WidgetStyle name="Bookmark margin" 					styleID="0" bgColor="290A11" />
         <WidgetStyle name="Change History margin" 				styleID="0" bgColor="290A11" />
-        <WidgetStyle name="Change History modified" 			styleID="0" fgColor="F3EEEA" bgColor="290A11" />
-        <WidgetStyle name="Change History revert modified" 		styleID="0" fgColor="F5C1C3" bgColor="290A11" />
-        <WidgetStyle name="Change History revert origin" 		styleID="0" fgColor="72BE9A" bgColor="290A11" />
-        <WidgetStyle name="Change History saved" 				styleID="0" fgColor="A8D7C1" bgColor="290A11" />
+        <WidgetStyle name="Change History modified" 			styleID="0" fgColor="F3EEEA" bgColor="F3EEEA" />
+        <WidgetStyle name="Change History revert modified" 		styleID="0" fgColor="F5C1C3" bgColor="F5C1C3" />
+        <WidgetStyle name="Change History revert origin" 		styleID="0" fgColor="72BE9A" bgColor="72BE9A" />
+        <WidgetStyle name="Change History saved" 				styleID="0" fgColor="A8D7C1" bgColor="A8D7C1" />
         <WidgetStyle name="Fold" 								styleID="0" fgColor="CC3354" bgColor="290A11" />
         <WidgetStyle name="Fold active" 						styleID="0" fgColor="CC3354" />
         <WidgetStyle name="Fold margin" 						styleID="0" fgColor="290A11" bgColor="290A11" />
