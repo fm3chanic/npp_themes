@@ -240,10 +240,10 @@
         <LexerType name="sql" desc="SQL" ext="">
             <WordsStyle name="KEYWORD" 						styleID="5" fgColor="618D9E" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1" />
             <WordsStyle name="USER1" 						styleID="16" fgColor="618D9E" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" keywordClass="instre2" />
-            <WordsStyle name="KEYWORD2" 					styleID="19" fgColor="F5C1C3" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" keywordClass="type3" />
+            <WordsStyle name="KEYWORD2" 					styleID="19" fgColor="F1A7AA" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" keywordClass="type3" />
             <WordsStyle name="NUMBER" 						styleID="4" fgColor="A0BAC5" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="STRING" 						styleID="6" fgColor="F1A7AA" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="STRING2" 						styleID="7" fgColor="F1A7AA" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="STRING" 						styleID="6" fgColor="F5C1C3" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="STRING2" 						styleID="7" fgColor="F5C1C3" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="OPERATOR" 					styleID="10" fgColor="618D9E" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="COMMENT" 						styleID="1" fgColor="882238" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="COMMENT LINE" 				styleID="2" fgColor="882238" bgColor="290A11" fontName="" fontStyle="0" fontSize="10" />
@@ -1000,8 +1000,8 @@
         <WidgetStyle name="Change History margin" 				styleID="0" bgColor="290A11" />
         <WidgetStyle name="Change History modified" 			styleID="0" fgColor="F3EEEA" bgColor="F3EEEA" />
         <WidgetStyle name="Change History revert modified" 		styleID="0" fgColor="F5C1C3" bgColor="F5C1C3" />
-        <WidgetStyle name="Change History revert origin" 		styleID="0" fgColor="72BE9A" bgColor="72BE9A" />
-        <WidgetStyle name="Change History saved" 				styleID="0" fgColor="A8D7C1" bgColor="A8D7C1" />
+        <WidgetStyle name="Change History revert origin" 		styleID="0" fgColor="618D9E" bgColor="618D9E" />
+        <WidgetStyle name="Change History saved" 				styleID="0" fgColor="72BE9A" bgColor="72BE9A" />
         <WidgetStyle name="Fold" 								styleID="0" fgColor="CC3354" bgColor="290A11" />
         <WidgetStyle name="Fold active" 						styleID="0" fgColor="CC3354" />
         <WidgetStyle name="Fold margin" 						styleID="0" fgColor="290A11" bgColor="290A11" />
