@@ -17,17 +17,20 @@ To install a theme download the XML file or copy the content in your text editor
 Copy the XML file in one of the folders below:
 
 *C:\Users\YourUserName\AppData\Roaming\Notepad++\themes*
+
 for a local installation
 
 *OR*
 
 *C:\Program Files\Notepad++\themes*
+
 for a machine wide installation (admin rights might be required)
 
 ### Contribution:
 
 I accept all fixes, required updates (sometimes a theme looses compatibility after an update) and extension of the supported languages for all themes covered in this repo.
-Please only use colors from the according color scheme. The color schemes are stored in this repo: https://github.com/fm3chanic/color_schemes 
+Please only use colors from the according color scheme. The color schemes are stored in this repo: https://github.com/fm3chanic/color_schemes
+ 
 Exception for this is the "Sakura Haruno" theme, which was one of my first themes I have created and maintained for myself, therefore no color scheme files was created. 
 
 Please sent pull requests one file at the time so it's easier for me to check your changes. Thanks for understanding.
