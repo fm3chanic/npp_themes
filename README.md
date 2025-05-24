@@ -33,4 +33,4 @@ Please only use colors from the according color scheme. The color schemes are st
  
 Exception for this is the "Sakura Haruno" theme, which was one of my first themes I have created and maintained for myself, therefore no color scheme files was created. 
 
-Please sent pull requests one file at the time so it's easier for me to check your changes. Thanks for understanding.
+Please sent pull requests one theme at the time so it's easier for me to check your changes. Thanks for understanding.
