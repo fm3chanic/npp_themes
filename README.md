@@ -28,7 +28,4 @@ for a machine wide installation (admin rights might be required)
 
 ### Contribution:
 
-I accept all fixes, required updates (to maintain compatibility) and extension of the supported languages for all themes covered in this repo.
-Please use colors from the according color scheme for this. The color schemes are stored in this repo: https://github.com/fm3chanic/color_schemes
- 
-Do pull requests one theme at the time for the sake of maintaining overview.
+If you want to help maintaining the themes, please use colors from the according color scheme. The color scheme files are stored in this repo: https://github.com/fm3chanic/color_schemes
