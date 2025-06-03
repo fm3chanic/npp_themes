@@ -312,9 +312,9 @@
             <WordsStyle name="REGEX" 						styleID="52" fgColor="c65371" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" 						styleID="42" fgColor="f3cda5" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENTLINE" 					styleID="43" fgColor="f3cda5" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENTDOC" 					styleID="44" fgColor="6a4848" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="COMMENT DOC KEYWORD" 			styleID="17" fgColor="6a4848" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="">param @projectDescription projectDescription @param</WordsStyle>
-            <WordsStyle name="COMMENT DOC KEYWORD ERROR" 	styleID="18" fgColor="6a4848" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENTDOC" 					styleID="44" fgColor="4c3434" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="COMMENT DOC KEYWORD" 			styleID="17" fgColor="4c3434" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="">param @projectDescription projectDescription @param</WordsStyle>
+            <WordsStyle name="COMMENT DOC KEYWORD ERROR" 	styleID="18" fgColor="4c3434" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="USER KEYWORDS 1" 				styleID="200" fgColor="f6dabc" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" keywordClass="substyle1" />
             <WordsStyle name="USER KEYWORDS 2" 				styleID="201" fgColor="f6dabc" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" keywordClass="substyle2" />
             <WordsStyle name="USER KEYWORDS 3" 				styleID="202" fgColor="f6dabc" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" keywordClass="substyle3" />
@@ -977,25 +977,25 @@
             <WordsStyle name="Search Header" 					styleID="1" fgColor="a366cc" bgColor="2e1f1f" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="File Header" 						styleID="2" fgColor="6486b4" bgColor="2e1f1f" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="Line Number" 						styleID="3" fgColor="f3cda5" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="Hit Word" 						styleID="4" fgColor="c65371" bgColor="a27676" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="Hit Word" 						styleID="4" fgColor="c65371" bgColor="895d5d" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="Selected Line" 					styleID="5" fgColor="2e1f1f" bgColor="" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
-            <WordsStyle name="Current line background colour" 	styleID="6" bgColor="895d5d"  fontSize="" fontStyle="0">bool long int char</WordsStyle>
+            <WordsStyle name="Current line background colour" 	styleID="6" bgColor="6a4848"  fontSize="" fontStyle="0">bool long int char</WordsStyle>
         </LexerType>
 	</LexerStyles>
     <GlobalStyles>
         <!-- Attention : Don't modify the name of styleID="0" -->
         <WidgetStyle name="Global override" 					styleID="0" fgColor="f9e6d2" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="10" />
 		<WidgetStyle name="Default Style" 						styleID="32" fgColor="f9e6d2" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="10" />
-        <WidgetStyle name="Indent guideline style" 				styleID="37" fgColor="a27676" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Indent guideline style" 				styleID="37" fgColor="895d5d" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Brace highlight style" 				styleID="34" fgColor="c69fdf" bgColor="2e1f1f" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Bad brace colour" 					styleID="35" fgColor="c69fdf" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Current line background colour" 		styleID="0" bgColor="895d5d" />
+        <WidgetStyle name="Current line background colour" 		styleID="0" bgColor="6a4848" />
         <!-- In below rule 'fgColor' attribute for 'Selected text colour' can be unlocked with a enableSelectFgColor.xml file -->
-        <WidgetStyle name="Selected text colour" 				styleID="0" bgColor="a27676" fgColor="f9e6d2" />
-        <WidgetStyle name="Multi-selected text color" 			styleID="0" bgColor="a27676" />
-        <WidgetStyle name="Caret colour" 						styleID="2069" fgColor="f9e6d2" bgColor="c1a4a4"/>
+        <WidgetStyle name="Selected text colour" 				styleID="0" bgColor="895d5d" fgColor="f9e6d2" />
+        <WidgetStyle name="Multi-selected text color" 			styleID="0" bgColor="895d5d" />
+        <WidgetStyle name="Caret colour" 						styleID="2069" fgColor="f9e6d2" bgColor="a27676"/>
         <WidgetStyle name="Multi-edit carets color" 			styleID="0" fgColor="6486b4" />
-        <WidgetStyle name="Edge colour" 						styleID="0" fgColor="f9e6d2" bgColor="c1a4a4" />
+        <WidgetStyle name="Edge colour" 						styleID="0" fgColor="f9e6d2" bgColor="a27676" />
         <WidgetStyle name="Line number margin" 					styleID="33" fgColor="f3cda5" bgColor="2e1f1f" fontName="" fontStyle="0" fontSize="8" />
         <WidgetStyle name="Bookmark margin" 					styleID="0" bgColor="2e1f1f" />
         <WidgetStyle name="Change History margin" 				styleID="0" bgColor="2e1f1f" />
@@ -1007,7 +1007,7 @@
         <WidgetStyle name="Fold active" 						styleID="0" fgColor="f6dabc" />
         <WidgetStyle name="Fold margin" 						styleID="0" fgColor="2e1f1f" bgColor="2e1f1f" />
         <WidgetStyle name="White space symbol" 					styleID="0" fgColor="f3cda5" />
-        <WidgetStyle name="Smart HighLighting" 					styleID="29" bgColor="a27676" />
+        <WidgetStyle name="Smart HighLighting" 					styleID="29" bgColor="895d5d" />
         <WidgetStyle name="Find Mark Style" 					styleID="31" bgColor="d98ca1" />
         <WidgetStyle name="Find status: Not found" 				styleID="0" fgColor="f9e6d2" />
         <WidgetStyle name="Find status: Message" 				styleID="0" fgColor="9fdfcc" />
@@ -1015,15 +1015,15 @@
         <WidgetStyle name="Mark Style 1" 						styleID="25" bgColor="2e1f1f" />
         <WidgetStyle name="Mark Style 2" 						styleID="24" bgColor="9faddf" />
         <WidgetStyle name="Mark Style 3" 						styleID="23" bgColor="2e1f1f" />
-        <WidgetStyle name="Mark Style 4" 						styleID="22" bgColor="a27676" />
+        <WidgetStyle name="Mark Style 4" 						styleID="22" bgColor="895d5d" />
         <WidgetStyle name="Mark Style 5" 						styleID="21" bgColor="f3cda5" />
         <WidgetStyle name="Incremental highlight all" 			styleID="28" bgColor="98aecd" /> <!-- could also be highlight 2 -->
-        <WidgetStyle name="Tags match highlighting" 			styleID="27" bgColor="6a4848" />
-        <WidgetStyle name="Tags attribute" 						styleID="26" bgColor="4c3434" />
+        <WidgetStyle name="Tags match highlighting" 			styleID="27" bgColor="4c3434" />
+        <WidgetStyle name="Tags attribute" 						styleID="26" bgColor="3d2929" />
         <WidgetStyle name="Active tab focused indicator" 		styleID="0" fgColor="667ccc" />
         <WidgetStyle name="Active tab unfocused indicator" 		styleID="0" fgColor="9faddf" />
         <WidgetStyle name="Active tab text" 					styleID="0" fgColor="f9e6d2" />
-        <WidgetStyle name="Inactive tabs" 						styleID="0" fgColor="4c3434" bgColor="f6dabc" />
+        <WidgetStyle name="Inactive tabs" 						styleID="0" fgColor="3d2929" bgColor="f6dabc" />
         <WidgetStyle name="Tab color 1" 						styleID="0" bgColor="d98ca1" />
         <WidgetStyle name="Tab color 2" 						styleID="0" bgColor="92d3d1" />
         <WidgetStyle name="Tab color 3" 						styleID="0" bgColor="9faddf" />
