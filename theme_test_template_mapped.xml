@@ -31,7 +31,7 @@
             <WordsStyle name="Search Header" 					styleID="1" fgColor="Main4" bgColor="BackGround1" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="File Header" 						styleID="2" fgColor="Main6" bgColor="BackGround1" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="Line Number" 						styleID="3" fgColor="ForeGround3" bgColor="BackGround1" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="Hit Word" 						styleID="4" fgColor="Main1" bgColor="Highlight2" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="Hit Word" 						styleID="4" fgColor="Main1" bgColor="HighLight2" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="Selected Line" 					styleID="5" fgColor="BackGround1" bgColor="" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
             <WordsStyle name="Current line background colour" 	styleID="6" bgColor="HighLight3"  fontSize="" fontStyle="0">bool long int char</WordsStyle>
         </LexerType>
