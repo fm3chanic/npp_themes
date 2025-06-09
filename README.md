@@ -5,7 +5,7 @@ Themes which have been created during my project of color theming Vtubers are in
 
 ### Project:
 
-I am working in IT sector in one of the larger corporations and the amout of options for text editors are very limited. Therefore I am only using Notepad++ during work. Switching themes according to mood and task is something I do regularly, but the amout of maintained themes for Notepad++ is very low.
+I am working in IT sector in one of the larger corporations and the options for supported text editors are very limited. Therefore I am only using Notepad++ during work. Switching themes according to mood and task is something I do regularly, but the number of maintained themes for Notepad++ is very low.
 So I decided one day, I am building my own theme. At the end the result was a theme based on an anime character  (Sakura Haruno from Naruto). This was basically the day where the idea for my current project was born.
 
 When a theme based on an anime character is possible, then a theme based on a Vtuber would also be possible. So why not creating a theme based on a Vtuber. But which one? 
