@@ -5,7 +5,7 @@ Themes which have been created during my project of color theming Vtubers are in
 
 HTML-scheme files for all color themes: https://github.com/fm3chanic/color_schemes
 
-Further information regarding the Vtuber project: https://github.com/fm3chanic
+Further information regarding the Vtuber project: https://github.com/fm3chanic/vtuber_project
 
 ### Installation:
 
