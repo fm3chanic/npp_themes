@@ -4,6 +4,7 @@ This repository contains all color themes for Notepad++ I've created.
 Themes which have been created during my project of color theming Vtubers are in the folder "vtuber_project". The folder "other" contains all color themes which where created outside of the project.
 
 HTML-scheme files for all color themes: https://github.com/fm3chanic/color_schemes
+
 Further information regarding the Vtuber project: https://github.com/fm3chanic
 
 ### Installation:
