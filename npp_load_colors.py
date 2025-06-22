@@ -30,7 +30,7 @@ tab2 = df[1]
 tab2_values = tab2.iloc[0:12,1].tolist()
 
 # reading the template
-f = open('theme_base_template_mapped.xml', 'r', encoding='utf-8')
+f = open('theme_template_mapped.xml', 'r', encoding='utf-8')
 content = f.read()
 f.close()
 
