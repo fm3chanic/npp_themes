@@ -1,24 +1,23 @@
 ## fm3chanic Themes for Notepad++
 
-This repository contains all color themes for Notepad++ I've created.
+This repository contains all color themes for Notepad++ I've created so far.<br>
 Themes which have been created during my project of color theming Vtubers are in the folder "vtuber_project". The folder "other" contains all color themes which where created outside of the project.
 
-HTML-scheme files for all color themes: https://github.com/fm3chanic/color_schemes
-
-Further information regarding the Vtuber project: https://github.com/fm3chanic/vtuber_project
+You can find [HTML reference sheets](https://github.com/fm3chanic/color_schemes) for all color themes [here](https://github.com/fm3chanic/color_schemes).<br>
+You can find [further information](https://github.com/fm3chanic/vtuber_project) regarding the Vtuber project [here](https://github.com/fm3chanic/vtuber_project).
 
 ### Installation:
 
 To install a theme download the XML file or copy the content in your text editor of choice and save it as XML. 
 Copy the XML file in one of the folders below:
 
-*C:\Users\YourUserName\AppData\Roaming\Notepad++\themes*
+`C:\Users\YourUserName\AppData\Roaming\Notepad++\themes`
 
 for a local installation
 
-*OR*
+***OR***
 
-*C:\Program Files\Notepad++\themes*
+`C:\Program Files\Notepad++\themes`
 
 for a machine wide installation (admin rights might be required)
 
