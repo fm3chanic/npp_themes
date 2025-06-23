@@ -1,8 +1,8 @@
 # Disclaimer:
 # this code was made to work with specific files in mind
-# HTML files based on "color_sheme_base_template.html" 
+# HTML files based on "color_scheme_template.html" 
 # you can find this template in https://github.com/fm3chanic/color_schemes
-# the target file is "theme_base_template_mapped.xml"
+# the target file is "npp_theme_template.xml"
 # you can find this template in https://github.com/fm3chanic/npp_themes
 
 import pandas as pd
@@ -30,7 +30,7 @@ tab2 = df[1]
 tab2_values = tab2.iloc[0:12,1].tolist()
 
 # reading the template
-f = open('theme_template_mapped.xml', 'r', encoding='utf-8')
+f = open('npp_theme_template.xml', 'r', encoding='utf-8')
 content = f.read()
 f.close()
 
