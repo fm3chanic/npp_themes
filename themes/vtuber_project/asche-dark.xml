@@ -1006,7 +1006,7 @@
         <WidgetStyle name="Fold" 								styleID="0" fgColor="92a88a" bgColor="211712" />
         <WidgetStyle name="Fold active" 						styleID="0" fgColor="adbea7" />
         <WidgetStyle name="Fold margin" 						styleID="0" fgColor="211712" bgColor="211712" />
-        <WidgetStyle name="White space symbol" 					styleID="0" fgColor="92a88a" />
+        <WidgetStyle name="White space symbol" 					styleID="0" fgColor="422e24" />
         <WidgetStyle name="Smart HighLighting" 					styleID="29" bgColor="5f7557" />
         <WidgetStyle name="Find Mark Style" 					styleID="31" bgColor="5f7557" />
         <WidgetStyle name="Find status: Not found" 				styleID="0" fgColor="82c9a6" />
