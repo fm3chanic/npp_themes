@@ -14,7 +14,7 @@ tab2_values = []
 
 #define valuse for replacement
 tab1_replace = ['BackGround1','BackGround2','BackGround3','ForeGround1','ForeGround2','ForeGround3','HighLight1','HighLight2','HighLight3']
-tab2_replace = ['Main1','Main2','Main3','Main4','Main5','Main6','Sub1','Sub2','Sub3','Sub4','Sub5','Sub6']
+tab2_replace = ['Syn1','Syn2','Syn3','Syn4','Syn5','Syn6','Syn7']
 
 input_file = f'{sys.argv[1]}.html'
 output_file = f'{sys.argv[1]}.xml'
@@ -27,7 +27,7 @@ tab1 = df[0]
 tab1_values = tab1.iloc[0:9,1].tolist()
 
 tab2 = df[1]
-tab2_values = tab2.iloc[0:12,1].tolist()
+tab2_values = tab2.iloc[0:7,1].tolist()
 
 # reading the template
 f = open('npp_theme_template.xml', 'r', encoding='utf-8')
@@ -41,7 +41,7 @@ for i in range(9):
     # print(tab1_replace[i], tmpstr[1:len(tmpstr)])
     content = content.replace(tab1_replace[i], tmpstr[1:len(tmpstr)])
 
-for i in range(12):
+for i in range(7):
     tmpstr = tab2_values[i]
     # print(tab2_replace[i], tmpstr[1:len(tmpstr)])
     content = content.replace(tab2_replace[i], tmpstr[1:len(tmpstr)])    
