@@ -1070,9 +1070,9 @@
         <WidgetStyle name="Caret colour" 						styleID="2069" fgColor="f0c2ea"/>
         <WidgetStyle name="Multi-edit carets color" 			styleID="0" fgColor="f0c2ea"/>
         <WidgetStyle name="Edge colour" 						styleID="0" fgColor="f0c2ea" bgColor="af6aa3"/>
-        <WidgetStyle name="Line number margin" 					styleID="33" fgColor="c982be" bgColor="241933" fontName="" fontStyle="0" fontSize="8" />
-        <WidgetStyle name="Bookmark margin" 					styleID="0" bgColor="241933" />
-        <WidgetStyle name="Change History margin" 				styleID="0" bgColor="241933" />
+        <WidgetStyle name="Line number margin" 					styleID="33" fgColor="df9fd6" bgColor="302244" fontName="" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Bookmark margin" 					styleID="0" bgColor="302244" />
+        <WidgetStyle name="Change History margin" 				styleID="0" bgColor="302244" />
         <WidgetStyle name="Change History modified" 			styleID="0" fgColor="b3f075" bgColor="b3f075" />
         <WidgetStyle name="Change History revert modified" 		styleID="0" fgColor="cd7de8" bgColor="cd7de8" />
         <WidgetStyle name="Change History revert origin" 		styleID="0" fgColor="cd7de8" bgColor="cd7de8" />
