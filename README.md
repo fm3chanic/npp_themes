@@ -21,6 +21,10 @@ for a local installation
 
 for a machine wide installation (admin rights might be required)
 
+> [!NOTE]
+> The themes come **without** a general font and font size setting.
+> You need to setup a font and font size of your liking in the "Default Style" area of style settings to make the theme usable.
+
 ### Contribution:
 
 If you want to help maintaining the themes, please use colors from the according color scheme. You can find the scheme files in the repo linked above.
