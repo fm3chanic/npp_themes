@@ -28,7 +28,7 @@ for a machine wide installation (admin rights might be required)
 ### Contribution:
 
 The themes are based on the mapped template in directory **/tools**.<br>
-The python script (_\[...\](\_load_colors.py)_) reads the colors from an html file from [color_schemes](https://github.com/fm3chanic/color_schemes)
+The python script (_\[...\]\_load_colors.py_) reads the colors from an html file from [color_schemes](https://github.com/fm3chanic/color_schemes)
 and uses replace to fill in the colors.<br>
 
 If you want to work on colors it makes the most sense to change the colors in repository [color_schemes](https://github.com/fm3chanic/color_schemes) so the changes can be applied on all supported applications.<br>
