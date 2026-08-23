@@ -601,7 +601,7 @@
             <WordsStyle name="CLASSNAME" styleID="8" fgColor="D8C58C" bgColor="412F2F" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="DEFNAME" styleID="9" fgColor="8C9FD8" bgColor="412F2F" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="OPERATOR" styleID="10" fgColor="8CD8B2" bgColor="412F2F" fontName="" fontStyle="0" fontSize=""></WordsStyle>
-            <WordsStyle name="IDENTIFIER" styleID="11" fgColor="8CD8B2" bgColor="412F2F" fontName="" fontStyle="0" fontSize=""></WordsStyle>
+            <WordsStyle name="IDENTIFIER" styleID="11" fgColor="EED1B3" bgColor="412F2F" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="COMMENTBLOCK" styleID="12" fgColor="C4B8AA" bgColor="412F2F" fontName="" fontStyle="0" fontSize=""></WordsStyle>
             <WordsStyle name="BUILTINS" styleID="14" fgColor="D8B38C" bgColor="412F2F" fontName="" fontStyle="0" fontSize="" keywordClass="instre2"></WordsStyle>
             <WordsStyle name="USER KEYWORDS 1" styleID="128" fgColor="D8B38C" bgColor="412F2F" fontName="" fontStyle="0" fontSize="" keywordClass="substyle1"></WordsStyle>
