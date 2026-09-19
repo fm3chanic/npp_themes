@@ -1,5 +1,8 @@
 ## fm3chanic Themes for Notepad++
 
+> [!IMPORTANT]
+> This repository was archived and won't receive updates any longer.
+
 This repository contains all color themes for Notepad++ I've created so far.<br>
 Themes which have been created during my project of color theming Vtubers are in the directory "vtuber_project". The directory "other" contains all color themes which where created outside of the project.
 
